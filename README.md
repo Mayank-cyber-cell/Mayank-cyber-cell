@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar Shah,</h1>
+
+
 # 💫 About Me:
 🛰️ I’m currently working on "Blind Date with AI" – an interactive game website using AI scripts.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Projects blending AI, web development, and real-world impact (e.g., study partner matcher or Desi Chat Assistant).<br>🤝 I’m looking for help with UI/UX guidance for upcoming competitions or portfolio polishing.<br>🌱 I’m currently learning AI integrations in websites and content creation.<br>💬 Ask me about My vision for turning ideas into real platforms or businesses.<br>⚡ Fun fact I started learning coding just to build cool stuff for my friends — and ended up creating games, memes, AI tools, and entire websites for fun!
 
