@@ -21,6 +21,12 @@
 <a href="https://www.instagram.com/mayankkshah_/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<a href="https://medium.com/@jimayank2105">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+<a href="https://x.com/jimayank2105">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
 </p>
 
 
