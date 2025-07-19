@@ -8,9 +8,21 @@
 # 💫 About Me:
 🛰️ I’m currently working on "Blind Date with AI" – an interactive game website using AI scripts.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Projects blending AI, web development, and real-world impact (e.g., study partner matcher or Desi Chat Assistant).<br>🤝 I’m looking for help with UI/UX guidance for upcoming competitions or portfolio polishing.<br>🌱 I’m currently learning AI integrations in websites and content creation.<br>💬 Ask me about My vision for turning ideas into real platforms or businesses.<br>⚡ Fun fact I started learning coding just to build cool stuff for my friends — and ended up creating games, memes, AI tools, and entire websites for fun!
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mayankkshah_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayank-shah-hr121001/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/@mayankyt2437) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimayank2105@gmail.com) 
+<p align="center">
+<a href="https://mayankshahportfolio.netlify.app/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="www.linkedin.com/in/mayankkshah">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+<a href="https://www.instagram.com/mayankkshah_/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
 
 ## My favorite tools and technologies ⚙
 
