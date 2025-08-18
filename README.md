@@ -28,6 +28,11 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 </p>
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhrcXFidjd5NXM5YXJkeXdwMHNhMGMzMmM4NzhnYzY5cGNxNzk0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+
+###
 
 
 ## My favorite tools and technologies ⚙
