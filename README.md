@@ -65,11 +65,15 @@
 
 ---
 
-# 🎬 Closing Vibes:
-![Thanks GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYxdGQ1dGdoMWNndjgwczV4cTRhdTJtcWkwYjFuY205YjJ3b3Q4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGEQGzHpvIdi0lGJjn/giphy.gif)
+## 🎉 Fun Zone
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYxdGQ1dGdoMWNndjgwczV4cTRhdTJtcWkwYjFuY205YjJ3b3Q4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGEQGzHpvIdi0lGJjn/giphy.gif" width="300" />
+</p>
 
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JldXA4bHdsYWtjdmN5Z2ZhcHI2cjVrMTU0ZzIxcWtnMnQ4eDcwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jQ7tn8bSGEgPIQzRJL/giphy.gif" width="300" />
+</p>
 
 
 
