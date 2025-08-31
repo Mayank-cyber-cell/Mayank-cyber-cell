@@ -11,12 +11,15 @@
 ---
 
 # 💫 About Me:
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5zanZjaGp2dzFoZTc5cGZqMnJ4N2s4cnVoc2Y4YWNoczE0NHQwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI1erPMTMBFmNHi/giphy.gif" />
+
 🛰️ I’m currently working on **Blind Date with AI** – an interactive game website using AI scripts.  
 🧑‍🤝‍🧑 Looking to collaborate on **AI + WebDev Projects** that create real-world impact.  
 🤝 Need guidance with **UI/UX** for competitions & portfolio polishing.  
 🌱 Learning **AI integrations in websites & content creation**.  
 💬 Ask me about my **vision of turning ideas into real platforms**.  
 ⚡ Fun fact: I started coding just to make fun tools for friends — now I build **games, AI apps & memes**.  
+
 
 ---
 
