@@ -67,12 +67,13 @@
 
 ## 🎉 Fun Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYxdGQ1dGdoMWNndjgwczV4cTRhdTJtcWkwYjFuY205YjJ3b3Q4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGEQGzHpvIdi0lGJjn/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYxdGQ1dGdoMWNndjgwczV4cTRhdTJtcWkwYjFuY205YjJ3b3Q4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGEQGzHpvIdi0lGJjn/giphy.gif" width="200" style="margin:0 10px;" />
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzY2bnNyaWw5b2xidTJ2azJyZm01eDY3eTBwZTFlb3F2cDZkYjUwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SefUpaLtGNLs9gtg4u/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzY2bnNyaWw5b2xidTJ2azJyZm01eDY3eTBwZTFlb3F2cDZkYjUwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SefUpaLtGNLs9gtg4u/giphy.gif" width="200" style="margin:0 10px;" />
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JldXA4bHdsYWtjdmN5Z2ZhcHI2cjVrMTU0ZzIxcWtnMnQ4eDcwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jQ7tn8bSGEgPIQzRJL/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JldXA4bHdsYWtjdmN5Z2ZhcHI2cjVrMTU0ZzIxcWtnMnQ4eDcwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jQ7tn8bSGEgPIQzRJL/giphy.gif" width="200" style="margin:0 10px;" />
 </p>
+
 
 
 
