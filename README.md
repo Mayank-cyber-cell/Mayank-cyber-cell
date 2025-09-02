@@ -37,8 +37,8 @@
 
 
 ## 🔧 My Favourite Tools & Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,mysql,figma,linux,git,github,vscode,photoshop,premiere,aftereffects" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,mysql,figma,linux,git,github,photoshop,premiere,aftereffects,vscode&theme=dark" />
 </p>
 
 ---
