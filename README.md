@@ -38,15 +38,21 @@
 
 ## 🔧 My Favourite Tools & Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,mysql,figma,linux,git,github,vscode,photoshop,premiere,aftereffects,gcp,opencv" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,mysql,figma,linux,git,github,vscode,photoshop,premiere,aftereffects" />
 </p>
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mayank-cyber-cell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mayank-cyber-cell&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-cyber-cell&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-cyber-cell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mayank-cyber-cell&theme=tokyonight&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-cyber-cell&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
+</p>
+
 
 ---
 
