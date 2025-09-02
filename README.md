@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Developer+%7C+AI+Explorer+%7C+Designer;2nd+Year+CSE+Student;Love+Building+Cool+Projects+💡;Always+Learning+New+Things+🚀"/>
 </p>
+### 👀 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayank-cyber-cell&label=Visitors&color=blue&style=flat-square" />
+</p>
 
 ---
 
