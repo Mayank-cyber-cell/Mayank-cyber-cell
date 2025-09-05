@@ -17,7 +17,10 @@
 # 💫 About Me:
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5zanZjaGp2dzFoZTc5cGZqMnJ4N2s4cnVoc2Y4YWNoczE0NHQwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI1erPMTMBFmNHi/giphy.gif" />
 
-🛰️ I’m currently working on **Blind Date with AI** – an interactive game website using AI scripts.  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=F75C7E&width=450&lines=I+love+AI+%26+Web+Development!;Always+Learning+New+Things+🚀"/>
+</p>
+
 🧑‍🤝‍🧑 Looking to collaborate on **AI + WebDev Projects** that create real-world impact.  
 🤝 Need guidance with **UI/UX** for competitions & portfolio polishing.  
 🌱 Learning **AI integrations in websites & content creation**.  
