@@ -15,7 +15,7 @@
 ---
 
 # 💫 About Me:
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5zanZjaGp2dzFoZTc5cGZqMnJ4N2s4cnVoc2Y4YWNoczE0NHQwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI1erPMTMBFmNHi/giphy.gif" />
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF2bmd6YXc3YzV0MmF2Z2dyaGNoN3J0cXk2aDNseTRwdm1venpiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PAqjdPkJLDsmBRSYUp/giphy.gif" />
 
 🛰️ 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 **𝐁𝐥𝐢𝐧𝐝 𝐃𝐚𝐭𝐞 𝐰𝐢𝐭𝐡 𝐀𝐈** – 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐠𝐚𝐦𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐮𝐬𝐢𝐧𝐠 𝐀𝐈 𝐬𝐜𝐫𝐢𝐩𝐭𝐬.  
 🧑‍🤝‍🧑 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 **𝐀𝐈 ＋ 𝐖𝐞𝐛𝐃𝐞𝐯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬** 𝐭𝐡𝐚𝐭 𝐜𝐫𝐞𝐚𝐭𝐞 𝐫𝐞𝐚𝐥－𝐰𝐨𝐫𝐥𝐝 𝐢𝐦𝐩𝐚𝐜𝐭.  
