@@ -66,10 +66,6 @@
 
 ---
 
-## 🌀 Activity Graph
-[![Mayank’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank-cyber-cell&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
