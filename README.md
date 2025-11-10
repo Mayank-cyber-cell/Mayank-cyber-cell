@@ -54,11 +54,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mayank-cyber-cell&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-cyber-cell&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
-</p>
-
-
 ---
 
 ## 🏆 GitHub Trophies
