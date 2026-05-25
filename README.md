@@ -49,8 +49,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mayank-cyber-cell&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mayank-cyber-cell&theme=dark&hide_border=true)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mayank-cyber-cell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=mayank-cyber-cell&theme=dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
