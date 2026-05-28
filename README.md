@@ -71,4 +71,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
-</p>everthing same and only change in about section and not include tech stack in it
+</p>
