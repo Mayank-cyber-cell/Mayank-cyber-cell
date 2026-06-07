@@ -58,7 +58,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/Mayank-cyber-cell=ryo-ma&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=Mayank-cyber-cell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
